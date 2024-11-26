@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/komals-flower-store/static/css/main.33c61d45.css",
-    "main.js": "/komals-flower-store/static/js/main.fc4c2969.js",
-    "static/js/453.a3805af4.chunk.js": "/komals-flower-store/static/js/453.a3805af4.chunk.js",
-    "static/media/rose.jpg": "/komals-flower-store/static/media/rose.a9bad49136492917d433.jpg",
-    "static/media/bg.jpg": "/komals-flower-store/static/media/bg.7e57f00ecfefa5b09c55.jpg",
-    "index.html": "/komals-flower-store/index.html",
-    "main.33c61d45.css.map": "/komals-flower-store/static/css/main.33c61d45.css.map",
-    "main.fc4c2969.js.map": "/komals-flower-store/static/js/main.fc4c2969.js.map",
-    "453.a3805af4.chunk.js.map": "/komals-flower-store/static/js/453.a3805af4.chunk.js.map"
+    "main.css": "/Flower-Store/static/css/main.4de516ab.css",
+    "main.js": "/Flower-Store/static/js/main.3e56f03e.js",
+    "static/js/453.a3805af4.chunk.js": "/Flower-Store/static/js/453.a3805af4.chunk.js",
+    "static/media/rose.jpg": "/Flower-Store/static/media/rose.a9bad49136492917d433.jpg",
+    "static/media/bg.jpg": "/Flower-Store/static/media/bg.7e57f00ecfefa5b09c55.jpg",
+    "index.html": "/Flower-Store/index.html",
+    "main.4de516ab.css.map": "/Flower-Store/static/css/main.4de516ab.css.map",
+    "main.3e56f03e.js.map": "/Flower-Store/static/js/main.3e56f03e.js.map",
+    "453.a3805af4.chunk.js.map": "/Flower-Store/static/js/453.a3805af4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.33c61d45.css",
-    "static/js/main.fc4c2969.js"
+    "static/css/main.4de516ab.css",
+    "static/js/main.3e56f03e.js"
   ]
 }
